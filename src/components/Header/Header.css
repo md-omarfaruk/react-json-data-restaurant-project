@@ -1,0 +1,15 @@
+.header{
+  background-color: #282c34;
+    padding: 50px 0 30px 0;
+}
+.banner-img-one{
+    width: 40%;
+    height: 400px;
+
+}
+.banner-img-two{
+    width: 40%;
+    height: 400px;
+    /* border: 2px solid red; */
+    border-radius: 50%;
+}
